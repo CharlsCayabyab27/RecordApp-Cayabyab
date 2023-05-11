@@ -1,0 +1,8 @@
+{
+    "name": "razcelett/logapp-rancap",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
